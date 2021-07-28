@@ -42,7 +42,7 @@ littleB = With host generation migration of microbes into the system
 
 # coevoIndi.m
 
-Individual based implementation of Sharp Foster 2021.
+Individual based implementation of Sharp and Foster 2021.
 
 # Parameters
 gens = Host Generations
