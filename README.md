@@ -9,7 +9,8 @@ Outputs include the mean values across the population for
 
 
 # Usage
-Example params
+Example params:
+
 coevo(2,2,0.5,0.02,0,gens,1*10^-9,0.05,.5,1,0.1,1,1*10^-6)
 
 # Parameters
